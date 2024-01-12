@@ -5,7 +5,6 @@ Download manga from [linemanga](https://manga.line.me/)
 - [Windows](https://github.com/4zarea/linemanga-downloader/releases/download/v1.0.0/linemanga-downloader-win.zip)
 
 ## How to use
-### 1. Get a cookie
   1. Install [EditThisCookie](https://chrome.google.com/webstore/detail/edit-this-cookie/fngmhnnpilhplaeedifhccceomclgfbg)
   2. Go to https://manga.line.me/ and then export cookies
   ![Desktop Screenshot 2024 01 13 - 02 10 38 16](https://github.com/4zarea/linemanga-downloader/assets/156453628/07f6d95a-937d-4219-b5c0-2e32fa40ec3a)
